@@ -1,0 +1,27 @@
+ÿþ
+
+
+==============================================================================
+==============================================================================
+
+Logging to d:\projects\github\habakiri\savedata\\krkr.console.log started on 2023-5-25
+00:33:35 ! 羽々斬(吉里吉里2互換エンジン) 実行コア/0.0.1.0 TJS2J/2.4.28 Copyright (C) 2011 T.Imoto and contributors All rights reserved.
+00:33:35 ! 羽々斬は吉里吉里2のソースコードを元に開発されています。
+00:33:35 ! Program started on Windows 11 10.0 amd64
+00:33:35 ! JVM : OpenJDK 64-Bit Server VM 25.372-b07 Amazon.com Inc.
+00:33:35 ! JRE : 1.8.0_372 Amazon.com Inc.
+00:33:35 ! (info) Data path : file://./d/projects/github/habakiri/savedata
+00:33:35 ! (info) Max memory : 3307208704
+
+
+------------------------------------------------------------------------------
+
+00:33:35 羽々斬(吉里吉里2互換エンジン) 実行コア/0.0.1.0 TJS2J/2.4.28 Copyright (C) 2011 T.Imoto and contributors All rights reserved.
+00:33:35 羽々斬は吉里吉里2のソースコードを元に開発されています。
+00:33:35 Program started on Windows 11 10.0 amd64
+00:33:35 JVM : OpenJDK 64-Bit Server VM 25.372-b07 Amazon.com Inc.
+00:33:35 JRE : 1.8.0_372 Amazon.com Inc.
+00:33:35 (info) Data path : file://./d/projects/github/habakiri/savedata
+00:33:35 (info) Max memory : 3307208704
+00:33:35 (info) Data path does not exist, trying to make it ... ok.
+
